@@ -84,8 +84,11 @@ water-level-iot/
 ---
 
 ## 📷 Dokumentasi
-![Image](https://github.com/user-attachments/assets/b5344015-460d-484d-9457-f83fee76f265)
+AutoMode
+![Image](https://github.com/user-attachments/assets/ae757d42-a4c3-403c-a593-138057178915)
 
+Auto & Manual Mode
+![Image](https://github.com/user-attachments/assets/3c8fba9e-236a-457f-99d9-ec31a3aab903)
 ---
 
 ## 🎥 Demo Video
