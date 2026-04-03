@@ -85,10 +85,8 @@ water-level-iot/
 
 ## 📷 Dokumentasi
 
-(Tambahkan foto alat di sini nanti)
-
 ```
-![alat](images/setup.jpg)
+![hasil](images/waterlevel.jpg)
 ```
 
 ---
