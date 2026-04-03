@@ -86,7 +86,7 @@ water-level-iot/
 ## 📷 Dokumentasi
 
 ```
-![hasil](./images/waterlevel.jpg)
+![Image](https://github.com/user-attachments/assets/2e10a74f-3588-4793-80c6-8e65eeddbd0c)
 ```
 ---
 
