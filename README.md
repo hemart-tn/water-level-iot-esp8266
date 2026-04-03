@@ -86,10 +86,7 @@ water-level-iot/
 ## 📷 Dokumentasi
 
 ```
-<p align="center">
-  <img src="images/waterlevel.jpg" width="400"/>
-</p>
-```
+![hasil](./images/waterlevel.jpg)
 
 ---
 
