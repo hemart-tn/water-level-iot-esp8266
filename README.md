@@ -87,7 +87,7 @@ water-level-iot/
 
 ```
 ![hasil](./images/waterlevel.jpg)
-
+```
 ---
 
 ## 🎥 Demo Video
@@ -102,7 +102,7 @@ https://drive.google.com/file/d/1d3YwxX_hWlrr8VKdUcmZmYyVtV1oBn3o/view
 2. Masukkan WiFi & Auth Token Blynk
 3. Hubungkan rangkaian sesuai skema
 4. Jalankan sistem
-5. Monitor melalui aplikasi Blynk
+5. Monitor dan kontrol melalui aplikasi Blynk
 
 ---
 
