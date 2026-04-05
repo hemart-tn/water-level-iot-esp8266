@@ -87,7 +87,7 @@ water-level-iot/
 AutoMode
 ![Image](https://github.com/user-attachments/assets/ae757d42-a4c3-403c-a593-138057178915)
 
-Auto & Manual Mode x
+Auto & Manual Mode 
 ![Image](https://github.com/user-attachments/assets/3c8fba9e-236a-457f-99d9-ec31a3aab903)
 
 ---
